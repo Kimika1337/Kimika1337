@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,50:1e3a5f,100:0a192f&height=240&section=header&text=Twilight%20Chiya&fontSize=38&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,50:1e3a5f,100:0a192f&height=240&section=header&text=Kimika&fontSize=38&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 <h1 align="center">🌙 Hi, I'm Kimika</h1>
